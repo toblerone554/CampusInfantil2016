@@ -37,6 +37,6 @@ El personaje interactua con otros personajes, cambios de pantalla.
 Terminamos de ver el resto de opciones y apartados de Scratch.
 
 
-**13:00 - 14:00**
+**12:30 - 14:00**
 
 Segundo juego con Scratch: Esquiva la pelota 
