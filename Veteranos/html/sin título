@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title> Ejemplo de estilos </title>
+    <style>
+      .capital {font:italic bold 12px; background-color:yellow; color:white;}
+    </style>
+  </head>
+  <body>
+    <p>Capitales del mundo></p>
+    <p>ESPAÑA: <span class="capital">MADRID</SPAN></p>
+    <p>ARGENTINA: <span class="capital">BUENOS AIRES</SPAN></p>
+    <p>CHINA: <span class="capital">PEKIN</SPAN></p>
+    <p>GRECIA: <span class="capital">ATENAS</SPAN></p>
+  </body>
+</html>
