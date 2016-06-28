@@ -66,7 +66,7 @@ Escribir en el blog lo que han hecho la clase anterior.
 
 Explicación del reto de crear una página web con los conocimientos adquiridos en las anteriores sesiones.
 
-Navegació libre.
+Navegación libre.
 
 **11:00 - 11:30**
 
@@ -104,7 +104,7 @@ Nube de palabras:
 
 https://tagul.com/
 
-Mosaico de palabras: 
+Mosaico de palabras:
 
 http://www.imagechef.com/ic/es/word_mosaic/
 
@@ -138,20 +138,12 @@ http://picasion.com/es/
 
 **12:30 - 13:00**
 
-Nube de palabras:
+Reto de añadir un video en la página web (investigando por si solos como se hace ).
 
-https://tagul.com/
+**13:00 - 13:30**
 
-Mosaico de palabras: 
+Explicación de lo que se va a hacer la siguiente semana (arduino, miniblip,herramientas ofimáticas, comic y si es posible un pequeño intento de edición de vídeo).
 
-http://www.imagechef.com/ic/es/word_mosaic/
-
-**13:00 - 14:00**
+**13:30 - 14:00**
 
 Navegación libre
-
-
-
-
-
-
