@@ -51,7 +51,7 @@ Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML, EXPLICACION DEL RESTO DE HT
 
 **13:00 - 14:00**
 
-Juego de carreas de operaciones con Scratch
+Juego de carreras de operaciones con Scratch / Navegación libre
 
 
 #*3º Día*
@@ -74,7 +74,7 @@ Descanso y recreo
 
 **11:30 - 14:00**
 
-Crear página web
+Crear página web / Juego de carreras de operaciones con Scratch
 
 #*4º Día*
 

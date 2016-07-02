@@ -1,0 +1,51 @@
+
+<html lang="es">
+<head>  
+<meta charset="utf-8" />
+<title>Ejemplo de formulario sencillo</title>
+</head>
+<body>
+ 
+<h3>Formulario muy sencillo</h3>
+ 
+<form action="formulario.php" method="post" enctype="multipart/form-data">
+  Escribe tu nombre:
+  <input type="text" name="nombre" value="" />
+ 
+  <br/>
+  
+  Contraseña <br/>
+<input type="password" name="contrasena" value="" />
+
+  <br/>
+
+Puestos de trabajo buscados <br/>
+<input name="puesto_directivo" type="checkbox" value="direccion"/> Dirección
+<input name="puesto_tecnico" type="checkbox" value="tecnico"/> Técnico
+<input name="puesto_empleado" type="checkbox" checked="checked" value="empleado"/> Empleado
+
+  <br/>
+ 
+ Sexo <br/>
+<input type="radio" name="sexo" value="hombre" checked="checked" /> Hombre
+<input type="radio" name="sexo" value="mujer" /> Mujer
+
+  <br/>
+ 
+Fichero adjunto
+<input type="file" name="adjunto" />
+
+  <br/>
+
+
+<input type="reset" name="limpiar" value="Borrar datos del formulario" />
+
+  <br/>
+
+ 
+  <input type="submit" value="Enviar" />
+</form>
+ 
+</body>
+</html>
+
