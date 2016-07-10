@@ -22,7 +22,7 @@ Descanso y recreo
 
 **11:30 - 13:00**
 
-Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML.
+Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML, EXPLICACION DESDE DIAPOSITIVA 1 HASTA LISTAS(SIN EXPLICAR)
 
 **13:00 - 14:00**
 
@@ -39,15 +39,15 @@ Escribir en el blog lo que han hecho la clase anterior.
 
 **10:00 -11:00**
 
-Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML.
+Aprender JavaScript con Blocky.
 
 **11:00 - 11:30**
 
 Descanso y recreo
 
-**11:30 - 12:00**
+**11:30 - 13:00**
 
-Ejercicios de estilos con HTML5
+Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML, EXPLICACION DEL RESTO DE HTML Y DE ESTILOS CON CSS)
 
 **13:00 - 14:00**
 
@@ -64,40 +64,49 @@ Escribir en el blog lo que han hecho la clase anterior.
 
 **10:00 -11:00**
 
-Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML.
+Explicación del reto de crear una página web con los conocimientos adquiridos en las anteriores sesiones.
+
+Navegación libre.
 
 **11:00 - 11:30**
 
 Descanso y recreo
 
-**11:30 - 13:30**
+**11:30 - 14:00**
 
-Ejercicios con titulares, etiquetas pre e imagenes en HTML5.
-
-**13:30 - 14:00**
-
-Navegacion libre
+Crear página web / Juego de carreras de operaciones con Scratch
 
 #*4º Día*
 
-**09:00 – 09:30**
+**09:00 – 10:00**
 
 Recordatorio de la clase anterior.
 
+Escribir en el blog lo que han hecho la clase anterior.
 
-**09:30 -11:00**
+**10:00 -11:00**
 
-Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML.
-
-Enlaces a otras paginas.
+Añadir a la página web creada algún código javascript. Pueden consultar en internet
 
 **11:00 - 11:30**
 
 Descanso y recreo
 
-**11:30 - 13:00**
+**11:30 - 12:30**
 
-Charla y preguntas a representante de Google
+Programación lógica:
+
+http://lightbot.com/
+
+**12:30 - 13:00**
+
+Nube de palabras:
+
+https://tagul.com/
+
+Mosaico de palabras:
+
+http://www.imagechef.com/ic/es/word_mosaic/
 
 **13:00 - 14:00**
 
@@ -113,15 +122,23 @@ Escribir en el blog lo que han hecho la clase anterior.
 
 **10:00 -11:00**
 
-Primeros pasos con HTML. EJERCICIOS BASICOS DE HTML.
+Explicación de CodeHour y realización de alguna actividad:
+
+https://code.org/learn
 
 **11:00 - 11:30**
 
 Descanso y recreo
 
-**11:30 - 13:00**
+**11:30 - 12:30**
 
-Ejercicios con listas y tablas en HTML5.
+Crear un gif para página web:
+
+http://picasion.com/es/
+
+**12:30 - 13:00**
+
+Reto de añadir un video en la página web (investigando por si solos como se hace ).
 
 **13:00 - 13:30**
 
@@ -130,3 +147,4 @@ Explicación de lo que se va a hacer la siguiente semana (arduino, miniblip,herr
 **13:30 - 14:00**
 
 Navegación libre
+
